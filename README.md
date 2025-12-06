@@ -8,3 +8,7 @@
 - Circle: P = 2πR
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
+
+### Credential
+- global user.name cezanova
+- global user.email cezanova@gmail.com
